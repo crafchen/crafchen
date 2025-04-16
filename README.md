@@ -16,7 +16,7 @@
 </h5>
 <br>
 <p align="center">
-  Hello, my name is Minh Quyen, I have more than 2 years of experience. NET, 1 year of java experience & more than 1 year of system management experience.
+  Hello, my name is Minh Quyen, I have more than 3 years of experience. NET, 1 year of java experience & more than 1 year of system management experience.
   <br>
   <br>
   🔎 I am looking for a full-time position with Backend end Java, .Net or Font end (framework VueJs, AngularJS)
