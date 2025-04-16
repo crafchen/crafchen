@@ -12,7 +12,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/minhquyent/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/MinhQuyenT" title="Github Profile"><img width="22" src="images/hackerrank.png"> Github</a></code>
+  <code><a href="https://github.com/crafchen" title="Github Profile"><img width="22" src="images/hackerrank.png"> Github</a></code>
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 <br>
