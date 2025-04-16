@@ -19,7 +19,7 @@
   Hello, my name is Minh Quyen, I have more than 3 years of experience. NET, 1 year of java experience & more than 1 year of system management experience.
   <br>
   <br>
-  🔎 I am looking for a full-time position with Backend end Java, .Net or Font end (framework VueJs, AngularJS)
+  🔎 I am looking for a full-time position with Backend end Java, .Net or Frontend (framework VueJs, AngularJS)
   <br>
   📓 I'm learning more about data analysts.
   <br>
