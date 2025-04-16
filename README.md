@@ -27,7 +27,7 @@
   <br>
   📚 I am currently learning how to build an eCommerce Website with NestJS and AngularJs, ....
   <br>
-  💬 Ask me anything about from <a href="https://github.com/MinhQuyenT/minhquyent/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/MinhQuyenT/crafchen/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: tmquyenit@gmail.com">tmquyenit@gmail.com</a>or <a href="mailto: osmandurdag@hotmail.com">minhquyent.dev@gmail.com</a>
 </p>
