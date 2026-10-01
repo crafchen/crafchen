@@ -1,68 +1,75 @@
-
-<!-- <div style="width: 100%;">
-  <img src="https://raw.githubusercontent.com/MinhQuyenT/MinhQuyenT/415041d8f8b4d5c654eaced8ce267f13caa57351/welcome.svg" style="width: 100%;" alt="Click to see the source">
-</div> -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MinhQuyenT.MinhQuyenT">
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Minh+Quyen....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/minhquyent/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/crafchen" title="Github Profile"><img width="22" src="images/hackerrank.png"> Github</a></code>
-</h5>
-<br>
 <p align="center">
-  Hello, my name is Minh Quyen, I have more than 3 years of experience. NET, 1 year of java experience & more than 1 year of system management experience.
+  Hi, I'm Minh Quyen 👋
+  <br>
+  I have <b>5 years of experience as a software developer</b> (Full-stack) and <b>1 year in system administration</b>,
+  comfortable with building, deploying, and operating products from code to infrastructure.
   <br>
   <br>
-  🔎 I am looking for a full-time position with Backend end Java, .Net or Frontend (framework VueJs, AngularJS)
+  🔎 Looking for a full-time role: <b>Backend (Java, .NET, Node.js)</b> or <b>Frontend (Vue, Angular, React)</b>
   <br>
-  📓 I'm learning more about data analysts.
+  🤖 Using AI in my daily work: writing and reviewing code, generating tests, writing docs, and automating workflows
   <br>
-  💻 I love coding and learning everything about it
+  📓 Currently learning Data Analytics
   <br>
-  📚 I am currently learning how to build an eCommerce Website with NestJS and AngularJs, ....
+  📚 Building an eCommerce website with NestJS and Angular
   <br>
-  💬 Ask me anything about from <a href="https://github.com/MinhQuyenT/crafchen/issues" title="Issues">Here</a>
+  💬 Ask me anything <a href="https://github.com/MinhQuyenT/crafchen/issues" title="Issues">here</a>
   <br>
-  📫 How to reach me: <a href="mailto: tmquyenit@gmail.com">tmquyenit@gmail.com</a>or <a href="mailto: osmandurdag@hotmail.com">minhquyent.dev@gmail.com</a>
+  📫 Reach me at: <a href="mailto:minhquyent.dev@gmail.com">minhquyent.dev@gmail.com</a> or <a href="mailto:tmquyenit@gmail.com">tmquyenit@gmail.com</a>
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
+<h2 align="center">🔥 Tech Stack 🔥</h2>
+
+<h4 align="center">🎨 Frontend</h4>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="VueJS" height="25" src="images/vuejs.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="Java" height="25" src="images/java.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="Docker" height="25" src="images/docker.svg"></code>
+  <img title="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img title="Vue.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img title="Angular" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg">
+  <img title="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img title="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img title="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</p>
+
+<h4 align="center">⚙️ Backend</h4>
+<p align="center">
+  <img title="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img title="Express.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img title=".NET" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img title="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img title="FastAPI" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+</p>
+
+<h4 align="center">📱 Mobile (Learning)</h4>
+<p align="center">
+  <img title="React Native" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img title="Flutter" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img title="Dart" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+</p>
+
+<h4 align="center">🗄️ Database</h4>
+<p align="center">
+  <img title="SQL Server" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img title="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img title="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img title="MongoDB" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img title="Redis" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+</p>
+
+<h4 align="center">🏗️ Infrastructure & Tools</h4>
+<p align="center">
+  <img title="Windows" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+  <img title="Linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img title="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img title="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img title="GitHub" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img title="VS Code" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</p>
+
+<h4 align="center">🤖 AI in My Workflow</h4>
+<p align="center">
+  I use AI tools (Claude, ChatGPT, GitHub Copilot, ...) to speed up development:
+  <br>
+  assisting with code writing and review, debugging, unit test generation, documentation, and automating repetitive tasks.
 </p>
 <hr>
-
